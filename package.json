@@ -1,0 +1,20 @@
+{
+  "name": "aula-testenovo",
+  "version": "1.0.0",
+  "main": "sum.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lisxt/aula-testeNovo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lisxt/aula-testeNovo/issues"
+  },
+  "homepage": "https://github.com/Lisxt/aula-testeNovo#readme",
+  "description": ""
+}
