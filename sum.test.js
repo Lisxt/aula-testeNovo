@@ -1,6 +1,13 @@
-test('Soma 2 + 2 para iagual a 4', () =>{
-    expect(soma(2,2).toBe(4));
+const sum = require('./sum');
+
+test('soma 1 + 2 para igualar 3', () => {
+expect(sum(1, 2)).toBe(3);
 });
-test('Soma 2 + 3 para iagual a 5', () =>{
-    expect(soma(2,3).toBe(5));
+
+test('soma números negativos', () => {
+expect(sum(-1, -2)).toBe(-3);
+});
+
+test('soma 2 + 2 para igualar 4', () => {
+expect(sum(2, 2)).toBe(4);
 });
