@@ -16,5 +16,8 @@
     "url": "https://github.com/Lisxt/aula-testeNovo/issues"
   },
   "homepage": "https://github.com/Lisxt/aula-testeNovo#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
